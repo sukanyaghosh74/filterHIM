@@ -25,10 +25,10 @@
 filterHIM/
 │
 ├── assets/
-│   └── blocked_keywords.txt      # Keywords related to couple/romantic content
+│   └── blocked_keywords.txt     # Keywords related to couple/romantic content
 │
 ├── dataset/
-│   ├── couple/                   # Images of couples
+│   ├── couple/                  # Images of couples
 │   └── non_couple/              # Non-romantic content
 │
 ├── filters/
@@ -42,9 +42,9 @@ filterHIM/
 │
 ├── config.py                    # Central config for keywords and thresholds
 ├── main.py                      # Master filter pipeline to evaluate posts
-├── scrape_dataset.py           # Scraper to build the dataset
-├── train_model.py              # Model training script
-└── README.md                   # This file
+├── scrape_dataset.py            # Scraper to build the dataset
+├── train_model.py               # Model training script
+└── README.md                    # This file
 ```
 
 ---
