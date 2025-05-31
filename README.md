@@ -103,7 +103,7 @@ If **any filter triggers**, the post is **hidden or blurred** via Chrome content
 ## 🙌 Credits
 
 * Built against love 🩷 by [Sukanya Ghosh](https://github.com/sukanyaghosh74)
-* Inspired by the need to *filter distractions* and *stay emotionally balanced* online
+* Inspired by a ***certain someone*** 🫠 & the need to *filter distractions* and *stay emotionally balanced* online
 
 ---
 
